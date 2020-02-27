@@ -1,0 +1,25 @@
+{
+  "name": "avatar",
+  "version": "0.1.0",
+  "description": "image avatar react component",
+  "keywords": [
+    "avatar",
+    "image"
+  ],
+  "author": "Pankaj Dekate <whoispankaj@gmail.com>",
+  "homepage": "",
+  "license": "MIT",
+  "main": "lib/avatar.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1",
+    "build": "tsc",
+    "publish": "npm publish"
+  }
+}
