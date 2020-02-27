@@ -1,11 +1,11 @@
 {
-  "name": "avatar",
-  "version": "0.3.0-alpha.0",
+  "name": "ui-widgets-avatar",
+  "version": "0.2.0-alpha.0",
   "description": "image avatar react component",
   "keywords": [
     "avatar",
     "image",
-    "React"
+    "React  "
   ],
   "author": "Pankaj Dekate <whoispankaj@gmail.com>",
   "homepage": "",
