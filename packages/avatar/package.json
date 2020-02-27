@@ -1,5 +1,6 @@
 {
   "name": "ui-widgets-avatar",
+  "private": true,
   "version": "0.3.0-alpha.0",
   "description": "image avatar react component",
   "keywords": [
@@ -23,5 +24,5 @@
     "build": "tsc",
     "publish": "npm publish"
   },
-  "gitHead": "25af5a5d53b6fe268984511bd61fc8eb9ef25646"
+  "gitHead": "dfda285dfb5790b56d419061eb40c8da0abb94cf"
 }

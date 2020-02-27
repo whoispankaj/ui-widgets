@@ -1,5 +1,6 @@
 {
   "name": "ui-widgets-button",
+  "private": true,
   "version": "0.4.0-alpha.0",
   "description": "Button React widget",
   "keywords": [
@@ -22,5 +23,5 @@
     "build": "tsc",
     "publish": "npm publish"
   },
-  "gitHead": "25b60973671e3121702fafbf781bb6abe4aa3408"
+  "gitHead": "dfda285dfb5790b56d419061eb40c8da0abb94cf"
 }
