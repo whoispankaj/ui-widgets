@@ -2,7 +2,7 @@
   "packages": [
     "packages/*"
   ],
-  "version": "independant",
+  "version": "independent",
   "npmClient": "npm",
   "command": {
     "publish": {
