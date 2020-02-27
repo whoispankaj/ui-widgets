@@ -4,7 +4,8 @@
   "description": "image avatar react component",
   "keywords": [
     "avatar",
-    "image"
+    "image",
+    "React"
   ],
   "author": "Pankaj Dekate <whoispankaj@gmail.com>",
   "homepage": "",
@@ -21,5 +22,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1",
     "build": "tsc",
     "publish": "npm publish"
-  }
+  },
+  "gitHead": "25af5a5d53b6fe268984511bd61fc8eb9ef25646"
 }
